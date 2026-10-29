@@ -1,0 +1,15 @@
+{
+  "experiment_dir": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports",
+  "task_name": null,
+  "task_seed": null,
+  "agent_name": null,
+  "n_steps": 0,
+  "cum_reward": null,
+  "terminated": null,
+  "truncated": null,
+  "err_msg": null,
+  "likely_stuck_signals": [],
+  "max_repeated_action_run": 0,
+  "action_error_steps": 0,
+  "steps": []
+}

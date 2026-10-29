@@ -1,0 +1,30 @@
+{
+  "task_folder": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282",
+  "task_name": "workarena.servicenow.order-developer-laptop",
+  "task_seed": 282,
+  "agent_name": "SGA-gpt-4o-mini",
+  "cum_reward": 1,
+  "terminated": true,
+  "truncated": false,
+  "n_steps": 3,
+  "include_full_chat": true,
+  "max_message_chars": 1200,
+  "raw_files": [
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\raw\\step_0.pkl.gz",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\raw\\step_1.pkl.gz",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\raw\\step_2.pkl.gz",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\raw\\step_3.pkl.gz"
+  ],
+  "raw_trajectory_json": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\raw\\raw_trajectory.json",
+  "full_trajectory_json": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\trajectory_full.json",
+  "parsed_trajectory_json": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\parsed\\parsed_trajectory.json",
+  "parsed_trajectory_csv": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\parsed\\parsed_trajectory.csv",
+  "report_markdown": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\trajectory_report.md",
+  "screenshots": [
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\screenshots\\screenshot_step_0.png",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\screenshots\\screenshot_step_1.png",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\screenshots\\screenshot_step_2.png",
+    "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\trajectory_exports\\task_0019_workarena-servicenow-order-developer-laptop_seed-282\\screenshots\\screenshot_step_3.png"
+  ],
+  "source_experiment_dir": "C:\\Users\\sanam\\agentlab_results\\2026-10-29_02-09-34_sga-gpt-4o-mini-on-workarena-simplified-simplified-prompts\\2026-10-29_02-09-44_SGA-gpt-4o-mini_on_workarena.servicenow.order-developer-laptop_282"
+}
